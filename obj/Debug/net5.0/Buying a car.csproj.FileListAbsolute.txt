@@ -1,0 +1,16 @@
+N:\Buying a car\bin\Debug\net5.0\Buying a car.exe
+N:\Buying a car\bin\Debug\net5.0\Buying a car.deps.json
+N:\Buying a car\bin\Debug\net5.0\Buying a car.runtimeconfig.json
+N:\Buying a car\bin\Debug\net5.0\Buying a car.runtimeconfig.dev.json
+N:\Buying a car\bin\Debug\net5.0\Buying a car.dll
+N:\Buying a car\bin\Debug\net5.0\ref\Buying a car.dll
+N:\Buying a car\bin\Debug\net5.0\Buying a car.pdb
+N:\Buying a car\obj\Debug\net5.0\Buying a car.csproj.AssemblyReference.cache
+N:\Buying a car\obj\Debug\net5.0\Buying a car.GeneratedMSBuildEditorConfig.editorconfig
+N:\Buying a car\obj\Debug\net5.0\Buying a car.AssemblyInfoInputs.cache
+N:\Buying a car\obj\Debug\net5.0\Buying a car.AssemblyInfo.cs
+N:\Buying a car\obj\Debug\net5.0\Buying a car.csproj.CoreCompileInputs.cache
+N:\Buying a car\obj\Debug\net5.0\Buying a car.dll
+N:\Buying a car\obj\Debug\net5.0\ref\Buying a car.dll
+N:\Buying a car\obj\Debug\net5.0\Buying a car.pdb
+N:\Buying a car\obj\Debug\net5.0\Buying a car.genruntimeconfig.cache
